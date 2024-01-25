@@ -1,0 +1,11 @@
+# Publish the application and creating folder:Release
+
+    -- dotnet publish -c Release
+
+# Command to build your docker image from Dockerfile
+
+    -- docker build -t minicursodocker .
+
+# Command to instance a docker container bases in the docker image minicursodocker
+
+    -- docker run -d -p 5000:5000 -p 5001:5001 --name minicursodocker-app minicursodocker
