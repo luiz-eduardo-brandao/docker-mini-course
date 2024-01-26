@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0tyQAah0ulLFUaL6hoDUyoCC8NKfFB/OHiAdoGlsi80=",
+  "Source": "DockerAspNet.API",
+  "BasePath": "_content/DockerAspNet.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
